@@ -1,0 +1,30 @@
+@charset "UTF-8";
+* {
+
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+main {
+    background-color: green;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+section#telefone {
+  background-color: blue;
+    width: 310px;
+    height: 500px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate
+
+    
+
+}
+
